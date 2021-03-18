@@ -1,0 +1,1 @@
+let checkAge = age => age > 18 ? true : "Did parents allow you?";
