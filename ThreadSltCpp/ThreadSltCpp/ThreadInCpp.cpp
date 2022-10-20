@@ -55,4 +55,6 @@ int main()
     t2.join();
 
     log("Main thread ends");
+
+    system("note");
 }
